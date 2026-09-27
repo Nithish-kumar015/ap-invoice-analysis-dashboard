@@ -54,4 +54,4 @@ The SQL files use Microsoft SQL Server T-SQL. Run the setup scripts on a clean d
 
 ## Tools
 
-SQL Server (T-SQL) · Power BI Desktop · DAX
+SQL Server (SSMS-SQL-sever with VS Code) · Power BI Desktop · DAX
